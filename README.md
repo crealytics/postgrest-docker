@@ -1,4 +1,9 @@
 # postgrest-docker
+
+**DEPRECATED**
+There is now an official [docker image](https://hub.docker.com/r/begriffs/postgrest/)
+
+
 Dockerfile for a [postgrest](http://postgrest.com/) instance
 
 Copied and adapted from https://github.com/begriffs/postgrest/issues/408
